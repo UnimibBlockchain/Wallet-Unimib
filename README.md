@@ -5,7 +5,7 @@ Wallet for University private Ethereum Blockchain
 Thanks to the great job of library of ConsenSys (eth-lightwallet), the app could manage the key-pairs securely on smartphone side without send any password out of the wallet.
 Every transaction could be signed directly with the smartphone and sent to an ethereum node public/private.
 
-With LETH you could:
+With Unimib Wallet you could:
 
 - Create a HD ligthwallet 
 - Manage an Ethereum wallet address
@@ -59,5 +59,9 @@ ionic serve
 <p align="center">
     <img src="/unimib2.PNG" />
 </p>
+
+Thanks to LETH <3
+website: https://www.inzhoop.com/
+github: https://github.com/inzhoop-co/LETH
 # License
  GNU GENERAL PUBLIC LICENSE 3.0
